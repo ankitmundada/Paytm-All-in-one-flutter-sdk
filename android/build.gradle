@@ -36,6 +36,6 @@ android {
 }
 
 dependencies {
-    implementation 'com.paytm.appinvokesdk:appinvokesdk:1.2'
+    implementation 'com.paytm.appinvokesdk:appinvokesdk:1.53'
 }
 
